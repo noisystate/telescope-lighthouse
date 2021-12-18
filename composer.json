@@ -1,6 +1,6 @@
 {
-    "name": "laravel/telescope",
-    "description": "An elegant debug assistant for the Laravel framework.",
+    "name": "noisystate/telescope-lighthouse",
+    "description": "A lighthouse-compatible laravel/telescope version",
     "keywords": ["laravel", "monitoring", "debugging"],
     "license": "MIT",
     "authors": [
